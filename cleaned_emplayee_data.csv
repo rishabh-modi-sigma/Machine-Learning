@@ -1,0 +1,7 @@
+emp_id,name,department,experience,salary,performance,joining_date,bonus_rate,bonus_amount,joining_year
+101,Amit,IT,5,60000.0,Excellent,2019-06-15,0.2,12000.0,2019
+102,Riya,HR,3,45000.0,Good,2021-03-10,0.1,4500.0,2021
+103,Rahul,IT,7,60000.0,Excellent,2018-01-20,0.2,12000.0,2018
+104,Pooja,Sales,2,30000.0,Average,2022-07-05,0.05,1500.0,2022
+105,Ankit,Sales,4,38000.0,Good,2020-11-11,0.1,3800.0,2020
+106,Neha,HR,6,52000.0,Excellent,2017-09-30,0.2,10400.0,2017
